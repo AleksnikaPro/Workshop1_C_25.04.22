@@ -14,4 +14,5 @@ if (c > max)
 {
     max = c;
 }
+Console.WriteLine("max= ");
 Console.WriteLine(max);
